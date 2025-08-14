@@ -1,3 +1,4 @@
+//674244123 Supanud Thuvichain
 #include <stdio.h>
 
 main() {
@@ -7,3 +8,4 @@ main() {
     printf("------------------------------\n");
     getchar();
 }
+
